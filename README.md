@@ -1,1 +1,1 @@
-# sample_hackthon_project
+# sample_repo_for_hackthon
